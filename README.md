@@ -1,5 +1,3 @@
-# cellfinder
-
 [![Docs](https://img.shields.io/badge/Docs-cellfinder-blue)](https://brainglobe.info/documentation/cellfinder/index.html)
 [![Get in Touch](https://img.shields.io/badge/Get%20in%20Touch-BrainGlobe-blue)](https://brainglobe.info/contact.html)
 [![DOI](https://img.shields.io/badge/DOI-10.1371%2Fjournal.pcbi.1009074-green)](https://doi.org/10.1371/journal.pcbi.1009074)
@@ -12,8 +10,10 @@
 [![Napari Hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/cellfinder)](https://www.napari-hub.org/plugins/cellfinder)
 [![Downloads](https://static.pepy.tech/badge/cellfinder)](https://pepy.tech/project/cellfinder)
 [![Code Style: Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/format.json)](https://github.com/astral-sh/ruff)
-[![Pre-commit](https://img.shields.io/badge/Pre--commit-enabled-green?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
+[![Pre-commit](https://img.shields.io/badge/pre--commit-enabled-green?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-green.svg)](https://brainglobe.info/community/developers/index.html)
+
+# cellfinder
 
 cellfinder is software for automated 3D cell detection in very large 3D images (e.g., serial two-photon or lightsheet volumes of whole mouse brains).
 There are three different ways to interact and use it, each with different user interfaces and objectives in mind.
